@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "appId": "com.vyntra.app",
+  "appName": "Vyntra",
+  "latestVersionName": "1.1",
+  "latestVersionCode": null,
+  "minimumVersionCode": null,
+  "releaseDate": "2026-11-01",
+  "title": "Vyntra 1.1",
+  "message": "The latest published Vyntra Android release.",
+  "required": false,
+  "whatsNew": [
+    "Vyntra 1.1 is the latest release currently published on the official GitHub release channel.",
+    "Detailed release notes have not yet been added."
+  ],
+  "downloads": [
+    {
+      "abi": "universal",
+      "fileName": "app-release.apk",
+      "url": "https://github.com/Dancode-del/vyntra/releases/download/1.1/app-release.apk",
+      "sha256": "2bcaa4298e5827d6fdaf1aff16eae56290127bf3a754580281b8243eed1f861e",
+      "sizeBytes": 183523587
+    }
+  ],
+  "verification": "pending",
+  "signatureAlgorithm": "RSA-PSS-SHA256",
+  "signature": null
+}

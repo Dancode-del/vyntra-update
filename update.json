@@ -15,11 +15,12 @@
   ],
   "downloads": [
     {
-      "abi": "universal",
+      "abi": "unspecified",
       "fileName": "app-release.apk",
       "url": "https://github.com/Dancode-del/vyntra/releases/download/1.1/app-release.apk",
       "sha256": "2bcaa4298e5827d6fdaf1aff16eae56290127bf3a754580281b8243eed1f861e",
-      "sizeBytes": 183523587
+      "sizeBytes": 183523587,
+      "abiNote": "The published release has one APK asset; its supported ABI list has not yet been confirmed from APK metadata."
     }
   ],
   "verification": "pending",
